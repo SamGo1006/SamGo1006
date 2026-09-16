@@ -14,6 +14,8 @@ My coding interests span data tooling, developer utilities, web applications, an
 | [Log Lens](https://github.com/SamGo1006/log-lens) | C# | Structured logs, latency percentiles, input validation |
 | [Support Ops SQL](https://github.com/SamGo1006/support-ops-sql) | SQL, Python | Relational modeling, window functions, snapshot analytics |
 
+[Try Focusboard in your browser](https://samgo1006.github.io/focusboard/).
+
 ## What you'll find here
 
 - Source code with examples you can run locally.
