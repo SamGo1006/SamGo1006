@@ -16,6 +16,14 @@ My coding interests span data tooling, developer utilities, web applications, an
 
 [Try Focusboard in your browser](https://samgo1006.github.io/focusboard/).
 
+## Trading systems research & testing
+
+**Topstep Quant Lab — Python · Private repository**
+
+A futures-trading research and testing project focused on evaluating strategies and verifying the software around them. The existing work includes historical replay, an interactive offline paper-trading lab, execution-cost modeling, data validation, and independent risk checks.
+
+The engineering focus is on reproducible experiments, automated tests, order-lifecycle simulation, and clear separation between strategy logic, risk controls, and execution. Research outcomes and limitations are documented, including unsuccessful strategies. This is a research/testing system; it is not a validated profitable bot or a live trading service. Source code remains private.
+
 ## What you'll find here
 
 - Source code with examples you can run locally.
